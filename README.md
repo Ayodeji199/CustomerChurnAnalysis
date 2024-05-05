@@ -40,4 +40,17 @@ This information could be valuable for the company to understand which demograph
 While the churn rates for other age groups (19-28 to 59-68) are relatively lower at 20-30%, the spike in the 69-78 range is a major outlier and cause for concern.
 
 - Unlimited Data Plan
-  
+
+![image](https://github.com/Ayodeji199/CustomerChurnAnalysis/assets/155935474/e5507679-f937-4841-85e2-f38d5d8eac23)
+
+The table above shows that the customers on unlimited plan are more likely to churn, with a churn rate of 32.11%.
+To see if it is related to a certain amount of mobile data (GB) being used, an analysis was made
+
+![image](https://github.com/Ayodeji199/CustomerChurnAnalysis/assets/155935474/e156811f-7e48-467a-894a-61c677103f69)
+
+
+The churn rates for unlimited data plan customers vary significantly based on their data usage levels. Customers in the moderate usage range of 5-10 GB per month have the highest overall churn rate at 33.37%, followed by lighter users consuming less than 5 GB at 22.86% churn rate. Surprisingly, the heaviest data users consuming 10 GB or more have a relatively lower churn rate of 27.68%, closer to the overall average.
+This suggests that customers with moderate to light data usage on unlimited plans are more prone to churning compared to the heaviest data users. 
+
+- customers' international activity and churn
+
