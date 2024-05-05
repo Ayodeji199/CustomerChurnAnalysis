@@ -53,4 +53,8 @@ The churn rates for unlimited data plan customers vary significantly based on th
 This suggests that customers with moderate to light data usage on unlimited plans are more prone to churning compared to the heaviest data users. 
 
 - customers' international activity and churn
+Sum of Churn Rate %	International Plan
 
+![image](https://github.com/Ayodeji199/CustomerChurnAnalysis/assets/155935474/617e85a2-2e93-456b-93a0-cbcc036a70c4)
+
+Based on the table, many states seem to have a considerable percentage of customers on international plans who have churned or canceled their subscriptions. The churn rates for international plan customers are quite high across numerous states, with several states having churn rates above 50%, and many others having rates between 25-50%.
